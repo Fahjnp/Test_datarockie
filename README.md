@@ -1,7 +1,6 @@
-# Name of Streamlit App
+# Change Name here of Streamlit App
 
-Description of the app ...
-
+blahhhhhhhhh 
 ## Demo App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-app/)
